@@ -1,2 +1,2 @@
-# SQL-PROJECT
-US household income
+# Data Analytics potrfolio
+
